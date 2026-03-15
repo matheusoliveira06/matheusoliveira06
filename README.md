@@ -10,6 +10,8 @@ Desenvolvedor em formação com foco em desenvolvimento web, atuando na constru�
 
 Tenho interesse em desenvolvimento Full Stack, buscando sempre aplicar boas práticas de organização de código, componentização, consumo de APIs e versionamento com Git.
 
+Realizei intercâmbio internacional, o que me proporcionou inglês fluente e facilidade na comunicação. 
+
 Estou em constante evolução técnica e aberto a oportunidades de estágio e posição júnior.
 
 ---

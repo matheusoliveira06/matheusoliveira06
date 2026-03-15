@@ -1,6 +1,6 @@
 # Matheus Oliveira
 
-Estagiário em Programação | HTML | CSS | JavaScript | React | Node.js
+Full Stack Developer | JavaScript • React • Node.js | HTML • CSS
 
 ---
 
@@ -12,24 +12,6 @@ Tenho interesse em desenvolvimento Full Stack, buscando sempre aplicar boas prá
 
 Estou em constante evolução técnica e aberto a oportunidades de estágio e posição júnior.
 
----
-
-## 🚀 Tecnologias
-
-### Front-end
-- HTML5
-- CSS3
-- JavaScript 
-- React.js
-
-### Back-end
-- Node.js
-- APIs REST
-
-### Ferramentas
-- Git & GitHub
-- VS Code
-  
 ---
 
 ## 🎯 Objetivo Profissional

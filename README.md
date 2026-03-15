@@ -16,12 +16,6 @@ Estou em constante evolução técnica e aberto a oportunidades de estágio e po
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Desenvolver minha carreira como Desenvolvedor Full Stack, contribuindo com soluções web modernas, organizadas e escaláveis, enquanto continuo aprimorando minhas habilidades técnicas.
-
----
-
 ## 📫 Contato
 
 LinkedIn: www.linkedin.com/in/matheusoliveira06

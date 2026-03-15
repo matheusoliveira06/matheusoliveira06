@@ -40,7 +40,7 @@ Desenvolver minha carreira como Desenvolvedor Full Stack, contribuindo com soluÃ
 
 ## ğŸ“« Contato
 
-LinkedIn: www.linkedin.com/in/matheus-oliveira11
+LinkedIn: www.linkedin.com/in/matheusoliveira06
 
 Email: matheusteca@hotmail.com
 

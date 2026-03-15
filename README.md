@@ -44,8 +44,4 @@ LinkedIn: www.linkedin.com/in/matheus-oliveira11
 
 Email: matheusteca@hotmail.com
 
-Site: *****
 
----
-
-⭐ Obrigado por visitar meu perfil!

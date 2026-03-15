@@ -6,7 +6,7 @@ Estagiário em Programação | HTML | CSS | JavaScript | React | Node.js
 
 ## 👨‍💻 Sobre mim
 
-Sou estagiário em programação com foco em desenvolvimento web, atuando na construção de aplicações utilizando HTML, CSS e JavaScript no front-end e Node.js no back-end.
+Desenvolvedor em formação com foco em desenvolvimento web, atuando na construção de aplicações utilizando HTML, CSS e JavaScript no front-end e Node.js no back-end.
 
 Tenho interesse em desenvolvimento Full Stack, buscando sempre aplicar boas práticas de organização de código, componentização, consumo de APIs e versionamento com Git.
 
